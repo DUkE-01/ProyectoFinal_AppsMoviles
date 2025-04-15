@@ -1,0 +1,7 @@
+{
+  "name": "defensa-civil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

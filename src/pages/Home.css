@@ -1,0 +1,5 @@
+.custom-slider {
+    --swiper-pagination-color: var(--ion-color-primary);
+    --swiper-pagination-bullet-size: 8px;
+    height: 300px;
+  }
